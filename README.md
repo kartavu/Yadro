@@ -47,12 +47,4 @@
 спектр полученного сигнала
 <img src= "Sixth Task/img/2.jpg">
 
-# Seventh Task
-## Кодировка слова, его передача и прием 
-Сформированный сигнал
-<img src= "Seventh Task/img/1.jpg">
-
-    Полученный сигнал
-
-<img src= "Seventh Task/img/3.jpg"> 
 
