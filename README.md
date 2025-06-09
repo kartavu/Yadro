@@ -47,4 +47,13 @@
 спектр полученного сигнала
 <img src= "Sixth Task/img/2.jpg">
 
-
+# Курсовая работа
+## Определение параметров сигнала OFDM и моделирование приема OFDM в радиоканале
+Созвездия на поднесущих на выходе канала (до коррекции)
+<img src= "Coursework/img/1.png">
+Частотная характеристика канала (АЧХ)
+<img src= "Coursework/img/2.png">
+QAM после коррекции
+<img src= "Coursework/img/3.png">
+Посчитаем Bit error rate и выведем его
+<img src= "Coursework/img/4.png">
